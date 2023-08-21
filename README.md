@@ -44,11 +44,8 @@
 ![Python](https://img.shields.io/badge/-Python%20-05122A?style=flat&logo=python&color=eee)&nbsp;
 ![C++](https://img.shields.io/badge/-C++%20-05122A?style=flat&logo=cplusplus&color=eee&logoColor=6295cb)&nbsp;
 
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=omarshaban02&show_icons=true&locale=en&layout=compact" alt="most used languages" />
 
-
-
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=omarshaban02&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
-<br>
 <a href="https://komarev.com/ghpvc/?username=omarshaban02&style=for-the-badge">
     <img src="https://komarev.com/ghpvc/?username=omarshaban02&style=for-the-badge">
 </a>
