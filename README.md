@@ -43,6 +43,7 @@
 ![MySQL](https://img.shields.io/badge/-MySQL%20-05122A?style=flat&logo=mysql&color=fd5f45)&nbsp;
 ![Python](https://img.shields.io/badge/-Python%20-05122A?style=flat&logo=python&color=eee)&nbsp;
 ![C++](https://img.shields.io/badge/-C++%20-05122A?style=flat&logo=cplusplus&color=eee&logoColor=6295cb)&nbsp;
+![Arduino](https://img.shields.io/badge/-Arduino%20-05122A?style=flat&logo=Arduino&color=080)&nbsp;
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=omarshaban02&show_icons=true&locale=en&layout=compact" alt="most used languages" />
 
