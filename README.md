@@ -38,6 +38,8 @@
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git&color=blue&logoColor=fff)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github&color=blue)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&color=blue)&nbsp;
+![Qt & PyQt](https://img.shields.io/badge/-Qt%20&%20PyQt-05122A?style=flat&logo=qt)&nbsp;
+
 <!--
 ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=MongoDB&color=ddd)&nbsp;
 -->
@@ -45,8 +47,6 @@
 ![Python](https://img.shields.io/badge/-Python%20-05122A?style=flat&logo=python&color=eee)&nbsp;
 ![C++](https://img.shields.io/badge/-C++%20-05122A?style=flat&logo=cplusplus&color=eee&logoColor=6295cb)&nbsp;
 ![Arduino](https://img.shields.io/badge/-Arduino%20-05122A?style=flat&logo=Arduino&color=080)&nbsp;
-
-![Qt & PyQt](https://img.shields.io/badge/-Qt%20&%20PyQt-05122A?style=flat&logo=qt)&nbsp;
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=omarshaban02&show_icons=true&locale=en&layout=compact" alt="most used languages" />
 
