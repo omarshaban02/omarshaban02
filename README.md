@@ -24,9 +24,11 @@
 <a href="https://t.me/YousefMohamed01" target="_blank"><img src="https://img.shields.io/badge/-Yousef%20Dergham-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
 -->
 ### 🛠 &nbsp;Techs I use
+<!--
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript&color=333)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5&color=333)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6&color=333)&nbsp;
+-->
 ![Django](https://img.shields.io/badge/-Django%20-05122A?style=flat&logo=django&color=333)&nbsp;
 
 <!--
@@ -43,6 +45,8 @@
 ![Python](https://img.shields.io/badge/-Python%20-05122A?style=flat&logo=python&color=eee)&nbsp;
 ![C++](https://img.shields.io/badge/-C++%20-05122A?style=flat&logo=cplusplus&color=eee&logoColor=6295cb)&nbsp;
 ![Arduino](https://img.shields.io/badge/-Arduino%20-05122A?style=flat&logo=Arduino&color=080)&nbsp;
+
+![Qt & PyQt](https://img.shields.io/badge/-Qt%20Creator%20-05122A?style=flat&logo=qt)&nbsp;
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=omarshaban02&show_icons=true&locale=en&layout=compact" alt="most used languages" />
 
