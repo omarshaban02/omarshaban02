@@ -46,7 +46,7 @@
 ![C++](https://img.shields.io/badge/-C++%20-05122A?style=flat&logo=cplusplus&color=eee&logoColor=6295cb)&nbsp;
 ![Arduino](https://img.shields.io/badge/-Arduino%20-05122A?style=flat&logo=Arduino&color=080)&nbsp;
 
-![Qt & PyQt](https://img.shields.io/badge/-Qt%20Creator%20-05122A?style=flat&logo=qt)&nbsp;
+![Qt & PyQt](https://img.shields.io/badge/-Qt%20&%20PyQt-05122A?style=flat&logo=qt)&nbsp;
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=omarshaban02&show_icons=true&locale=en&layout=compact" alt="most used languages" />
 
