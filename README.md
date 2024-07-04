@@ -37,6 +37,7 @@
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git&color=blue&logoColor=fff)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github&color=blue)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&color=blue)&nbsp;
+![Jupyter Notebooks](https://img.shields.io/badge/-Jupyter%20Notebooks-007ACC?style=flat&logo=jupyter&logoColor=white)&nbsp;
 
 ![Arduino](https://img.shields.io/badge/-Arduino%20-05122A?style=flat&logo=Arduino&color=080)&nbsp;
 
