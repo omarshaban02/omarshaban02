@@ -38,6 +38,7 @@
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git&color=blue&logoColor=fff)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github&color=blue)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&color=blue)&nbsp;
+<!-- -->
 ![Qt & PyQt](https://img.shields.io/badge/-Qt%20&%20PyQt-05122A?style=flat&logo=qt)&nbsp;
 ![OpenGL](https://img.shields.io/badge/-OpenGL%20-05122A?style=flat&logo=opengl)&nbsp;
 <!--
