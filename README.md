@@ -27,12 +27,20 @@
 
 ![Python](https://img.shields.io/badge/-Python%20-05122A?style=flat&logo=python&color=eee)&nbsp;
 ![C++](https://img.shields.io/badge/-C++%20-05122A?style=flat&logo=cplusplus&color=eee&logoColor=6295cb)&nbsp;
+![C](https://img.shields.io/badge/-C-007ACC?style=flat&logo=c&color=eee&logoColor=6295cb)&nbsp;
 
-![Qt & PyQt](https://img.shields.io/badge/-Qt%20&%20PyQt-05122A?style=flat&logo=qt)&nbsp;
-![OpenGL](https://img.shields.io/badge/-OpenGL%20-05122A?style=flat&logo=opengl)&nbsp;
+![Qt & PyQt](https://img.shields.io/badge/-Qt%20&%20PyQt-05122A?style=flat&logo=qt&logoColor=white)&nbsp;
+![OpenGL](https://img.shields.io/badge/-OpenGL%20-05122A?style=flat&logo=opengl&logoColor=white)&nbsp;
+
+![OpenCV](https://img.shields.io/badge/-OpenCV-007ACC?style=flat&logo=opencv&logoColor=white)&nbsp;
+![NumPy](https://img.shields.io/badge/-NumPy-007ACC?style=flat&logo=numpy&logoColor=white)&nbsp;
+![Pandas](https://img.shields.io/badge/-Pandas-007ACC?style=flat&logo=pandas&logoColor=white)&nbsp;
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-007ACC?style=flat&logo=matplotlib&logoColor=white)&nbsp;
+![SciPy](https://img.shields.io/badge/-SciPy-007ACC?style=flat&logo=scipy&logoColor=white)&nbsp;
+![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-007ACC?style=flat&logo=scikit-learn&logoColor=white)&nbsp;
 
 ![Django](https://img.shields.io/badge/-Django%20-05122A?style=flat&logo=django&color=333)&nbsp;
-![MySQL](https://img.shields.io/badge/-MySQL%20-05122A?style=flat&logo=mysql&color=fd5f45)&nbsp;
+![MySQL](https://img.shields.io/badge/-MySQL%20-05122A?style=flat&logo=mysql&logoColor=white&color=f33)&nbsp;
 
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git&color=blue&logoColor=fff)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github&color=blue)&nbsp;
