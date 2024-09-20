@@ -6,15 +6,19 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
+<hr>
+<br>
+
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+<!--
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Biomedical%20Engineering%20Student;Software%20Developer&font=Fira%20Code&center=true&width=440&height=45&color=blue&vCenter=true&size=22"></a>
 </p> 
+-->
 
-
-- 🏢 Aspiring Software Developer and Student in Systems and Biomedical Engineering @ Cairo University 🎓.
+- 🏢 Aspiring AI Intern and Senior Student in Systems and Biomedical Engineering @ Cairo University 🎓.
 - 👨‍💻 As a SBME student, I'm constantly learning and exploring new technologies to improve my skills to advancing the biomedical field.
-- 🔬 On a mission to reshape the Biomedical field through software development.
+- 🔬 On a mission to reshape the Biomedical field through AI.
 
 
 ### Connect with Me :
