@@ -29,29 +29,33 @@
 -->
 ### 🛠 &nbsp;Techs I use
 
-![Python](https://img.shields.io/badge/-Python%20-05122A?style=flat&logo=python&color=eee)&nbsp;
-![C++](https://img.shields.io/badge/-C++%20-05122A?style=flat&logo=cplusplus&color=eee&logoColor=6295cb)&nbsp;
-![C](https://img.shields.io/badge/-C-007ACC?style=flat&logo=c&color=eee&logoColor=6295cb)&nbsp;
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
 
-![Qt & PyQt](https://img.shields.io/badge/-Qt%20&%20PyQt-05122A?style=flat&logo=qt&logoColor=white)&nbsp;
-![OpenGL](https://img.shields.io/badge/-OpenGL%20-05122A?style=flat&logo=opengl&logoColor=white)&nbsp;
+![Qt & PyQt](https://img.shields.io/badge/Qt%20&%20PyQt-41CD52?style=flat&logo=qt&logoColor=white)
+![OpenGL](https://img.shields.io/badge/OpenGL-5586A4?style=flat&logo=opengl&logoColor=white)
 
-![OpenCV](https://img.shields.io/badge/-OpenCV-007ACC?style=flat&logo=opencv&logoColor=white)&nbsp;
-![NumPy](https://img.shields.io/badge/-NumPy-007ACC?style=flat&logo=numpy&logoColor=white)&nbsp;
-![Pandas](https://img.shields.io/badge/-Pandas-007ACC?style=flat&logo=pandas&logoColor=white)&nbsp;
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-007ACC?style=flat&logo=matplotlib&logoColor=white)&nbsp;
-![SciPy](https://img.shields.io/badge/-SciPy-007ACC?style=flat&logo=scipy&logoColor=white)&nbsp;
-![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-007ACC?style=flat&logo=scikit-learn&logoColor=white)&nbsp;
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=matplotlib&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=flat&logo=scipy&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 
-![Django](https://img.shields.io/badge/-Django%20-05122A?style=flat&logo=django&color=333)&nbsp;
-![MySQL](https://img.shields.io/badge/-MySQL%20-05122A?style=flat&logo=mysql&logoColor=white&color=f33)&nbsp;
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)&nbsp;
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git&color=blue&logoColor=fff)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github&color=blue)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&color=blue)&nbsp;
-![Jupyter Notebooks](https://img.shields.io/badge/-Jupyter%20Notebooks-007ACC?style=flat&logo=jupyter&logoColor=white)&nbsp;
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![Jupyter Notebooks](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)&nbsp;
+![Bash Script](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)&nbsp;
 
-![Arduino](https://img.shields.io/badge/-Arduino%20-05122A?style=flat&logo=Arduino&color=080)&nbsp;
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white)
 
 <!--
 ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=MongoDB&color=ddd)&nbsp;
