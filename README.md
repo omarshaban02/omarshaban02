@@ -16,8 +16,8 @@
 </p> 
 -->
 
-- 🏢 Aspiring AI Intern and Senior Student in Systems and Biomedical Engineering @ Cairo University 🎓.
-- 👨‍💻 As a SBME student, I'm constantly learning and exploring new technologies to improve my skills to advancing the biomedical field.
+- 🏢 Aspiring AI and ML Developer, Fresh graduate from Systems and Biomedical Engineering @ Cairo University 🎓.
+- 👨‍💻 As a Systems and Biomedical Engineer, I'm constantly learning and exploring new technologies to improve my skills to advance the biomedical field.
 - 🔬 On a mission to reshape the Biomedical field through AI.
 
 
