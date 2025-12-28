@@ -19,7 +19,7 @@
 - 🏢 Aspiring AI and ML Developer, Fresh graduate from Systems and Biomedical Engineering @ Cairo University 🎓.
 - 👨‍💻 As a Systems and Biomedical Engineer, I'm constantly learning and exploring new technologies to improve my skills to advance the biomedical field.
 - 🔬 On a mission to reshape the Biomedical field through AI.
-- 📄 Further details are provided in my attached [CV](https://drive.google.com/file/d/1sSgAUnwBrvOQmlMEda_tdnBReEaCOHF4/view?usp=sharing)
+- 📄 Further details are provided in my attached [CV](https://drive.google.com/file/d/19eBCse81NxWhOz6RBhTRgOnsJx9VfmYO/view?usp=sharing)
 
 
 ### Connect with Me :
