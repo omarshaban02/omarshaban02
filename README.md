@@ -16,6 +16,7 @@
 - Passionate about applying **AI to healthcare and biomedical challenges**
 - Experienced in building **end-to-end AI systems**: from data processing and model training to deployment
 - More details in my [CV](https://drive.google.com/file/d/19eBCse81NxWhOz6RBhTRgOnsJx9VfmYO/view)
+- You can reach me via email at omar.an.shaban@gmail.com
 
 ---
 
