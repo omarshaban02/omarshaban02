@@ -1,26 +1,31 @@
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="220" align="right"/>
+
 <h3 align="center">
   Welcome to Omar Shaban's GitHub Profile
 </h3>
+
 
 <p align="center">
   <strong>AI & Machine Learning Engineer</strong> <br>
   Systems & Biomedical Engineering Graduate – Cairo University
 </p>
 
-<hr>
+<br>
 
-## 👨‍💻 About Me
+---
+
+## About Me
 
 - **AI & Machine Learning Engineer** with a strong background in **Biomedical Engineering**
 - Fresh graduate from **Systems and Biomedical Engineering, Cairo University**
 - Passionate about applying **AI to healthcare and biomedical challenges**
 - Experienced in building **end-to-end AI systems**: from data processing and model training to deployment
-- More details in my [CV](https://drive.google.com/file/d/19eBCse81NxWhOz6RBhTRgOnsJx9VfmYO/view)
 - You can reach me via email at omar.an.shaban@gmail.com
+- More details in my [CV](https://drive.google.com/file/d/19eBCse81NxWhOz6RBhTRgOnsJx9VfmYO/view)
 
 ---
 
-## 🚀 Current Focus
+## Current Focus
 
 - Developing **AI-driven biomedical systems**
 - Computer Vision, Multimodal AI, and LLMs
@@ -28,7 +33,7 @@
 
 ---
 
-## 🧠 Featured Project
+## Featured Project
 
 ### **Multimodal AI-based Detection and Tracking of Autistic Behavioral & Communication Patterns**
 
@@ -43,7 +48,7 @@
 
 ---
 
-## 💡 Key Strengths
+## Key Strengths
 
 - Strong foundation in **AI, ML, and Medical Imaging**
 - Experience with **large deep learning models** and limited hardware
@@ -53,7 +58,7 @@
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 ### **Languages**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -87,27 +92,13 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=omarshaban02&layout=compact" />
-
-<br clear="left"/>
-
----
-
-## 🌐 Connect With Me
+## Connect With Me
 
 <a href="https://linkedin.com/in/omarshaban02" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-Omar%20Shaban-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<br><br>
-
-<a href="https://komarev.com/ghpvc/?username=omarshaban02&style=for-the-badge">
-  <img src="https://komarev.com/ghpvc/?username=omarshaban02&style=for-the-badge">
-</a>
-
 ---
 
-📬 **Open to**: AI Engineer • Machine Learning Engineer • Research Assistant roles  
-🤝 **Interested in**: Healthcare AI, Multimodal Learning, Medical Imaging, LLMs
+**Open to**: AI Engineer • Machine Learning Engineer • Research Assistant roles  
+**Interested in**: Healthcare AI, Multimodal Learning, Medical Imaging, LLMs
